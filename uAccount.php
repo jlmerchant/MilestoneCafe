@@ -21,7 +21,7 @@
             if (empty($fname)) {
                 echo "Name is empty";
             } else {
-                echo "First Name: $fname" ; 
+                echo "First Name: $fname <br/>" ; 
             }
             $lname = $_POST['lname'];
             if (empty($lname)) {
