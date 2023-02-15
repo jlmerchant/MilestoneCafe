@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/*
+   Jordyn Merchant
+   Milestone Cafe CSS
+*/
+body{
+    background-color: cadetblue;
+}
+h3 {
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+header {
+    text-align: center;
+    font-size: 32pt;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+nav {
+    text-align: center;
+    font-size: 28pt;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkcyan;
+    color: black;
+}
+.Lighter {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    font-size: 18pt;
+    text-align: center;
+  }
+.BigDinner {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+    font-size: 18pt;
+    text-align: center;
+  }
+.sweets {
+    width: 30%;
+    font-style: italic;
+    background-color: lightgray;
+    font-size: 18pt;
+    float: left;
+    padding-left: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+img {
+    padding-left: auto;
+    margin-left: auto;
+    border-radius: 50%;
+  }

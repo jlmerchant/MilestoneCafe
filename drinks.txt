@@ -1,0 +1,11 @@
+$1.50 Apple Juice
+<br>
+$1.75 Orange Juice
+<br>
+$0.80 Coffee
+<br>
+$1.75 Sprite
+<br>
+$1.90 Diet Pepsi
+<br>
+$2.10 Coke
