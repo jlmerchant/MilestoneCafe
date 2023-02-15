@@ -9,7 +9,7 @@
 </head>
 <body>
     <h3>Milestone Cafe</h3>
-    <header>Welcome to the Milestone Cafe!</header>
+    <header>Welcome to the Milestone Cafe</header>
         <nav>
             <a href='/index.php'>Home</a> |
             <a href="/breakfast.php/">Breakfast</a> |
