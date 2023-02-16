@@ -21,25 +21,25 @@
             if (empty($fname)) {
                 echo "Name is empty";
             } else {
-                echo "First Name: $fname <br/>" ; 
+                echo "First Name: $fname <br />" ; 
             }
             $lname = $_POST['lname'];
             if (empty($lname)) {
-                echo "Name is empty";
+                echo "Name is empty <br />";
             } else {
-                echo "Last Name: $lname";
+                echo "Last Name: $lname <br />";
             }
             $email = $_POST['email'];
             if (empty($email)) {
             } else {
-                echo "Email: $email";
+                echo "Email: $email <br />";
             }
             $pword = $_POST['pword'];
             if (empty($pword)) {
-                echo "Password is empty";
+                echo "Password is empty <br />";
             } else {
                 $hash = password_hash($pword, PASSWORD_DEFAULT);
-                echo "Password is a secret"; 
+                echo "Password is a secret <br />"; 
 
             }
         }
