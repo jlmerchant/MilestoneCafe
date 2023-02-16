@@ -10,7 +10,7 @@
 <body>
 <h3>Milestone Cafe</h3>
     <header>Dinner Menu</header>
-    <nav>
+        <nav>
             <a href='index.php'>Home</a> |
             <a href="breakfast.php">Breakfast</a> |
             <a href="lunch.php">Lunch</a> |
