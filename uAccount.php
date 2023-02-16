@@ -8,7 +8,7 @@
 </head>
 <body>
     <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
-    First Name:<input type="text" name="fname">
+    First Name:<input type="text" name="fname" >
     Last Name:<input type="text" name="lname">
     Email:<input type="text" name="email">
     Password:<input type="text" name="pword">
@@ -19,7 +19,7 @@
             //collect value of input field 
             $fname = $_POST['fname'];
             if (empty($fname)) {
-                echo "Name is empty";
+                echo "Name is empty <br />";
             } else {
                 echo "First Name: $fname <br />" ; 
             }

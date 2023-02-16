@@ -11,11 +11,11 @@
     <h3>Milestone Cafe</h3>
     <header>Welcome to the Milestone Cafe</header>
         <nav>
-            <a href='/index.php'>Home</a> |
-            <a href="/breakfast.php/">Breakfast</a> |
-            <a href="/lunch.php/">Lunch</a> |
-            <a href="/dinner.php/">Dinner</a> |
-            <a href="/OurHistory.php/">Our History</a>
+            <a href='index.php'>Home</a> |
+            <a href="breakfast.php">Breakfast</a> |
+            <a href="lunch.php">Lunch</a> |
+            <a href="dinner.php">Dinner</a> |
+            <a href="OurHistory.php">Our History</a>
         </nav>
         <aside class = "specials">
             <h4>Special of the Day</h4>
