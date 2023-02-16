@@ -11,11 +11,11 @@
 <h3>Milestone Cafe</h3>
     <header>Our History!</header>
     <nav>
-        <a href='index.php'>Home</a> |
-        <a href="breakfast.php">Breakfast</a> |
-        <a href="lunch.php">Lunch</a> |
-        <a href="dinner.php">Dinner</a> |
-        <a href="OurHistory.php">Our History</a>
+        <a href='index.php/'>Home</a> |
+        <a href="breakfast.php/">Breakfast</a> |
+        <a href="lunch.php/">Lunch</a> |
+        <a href="dinner.php/">Dinner</a> |
+        <a href="OurHistory.php/">Our History</a>
         </nav>
         <aside class='process'>
             <h4>Our Process</h4>
