@@ -57,7 +57,10 @@
                 echo "Password is a secret <br />"; 
             }
         }
-        fwrite($userInput, $fname, $lname, $email, $hash);
+        fwrite($userInput, $fname);
+        fwrite($userInput, $lname);
+        fwrite($userInput, $email);
+        fwrite($userInput, $hash); 
         fclose($userInput); 
     ?>
 
