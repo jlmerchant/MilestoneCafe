@@ -59,8 +59,11 @@
             fwrite($userInput, $fname);
             fwrite($userInput, "\t");
             fwrite($userInput, $lname);
+            fwrite($userInput, "\t");
             fwrite($userInput, $email);
+            fwrite($userInput, "\t");
             fwrite($userInput, $hash); 
+            fwrite($userInput, "\n");
             fclose($userInput); 
         }
     ?>
