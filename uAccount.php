@@ -56,12 +56,12 @@
                 $hash = password_hash($pword, PASSWORD_DEFAULT);
                 echo "Password is a secret <br />"; 
             }
+            fwrite($userInput, $fname);
+            fwrite($userInput, $lname);
+            fwrite($userInput, $email);
+            fwrite($userInput, $hash); 
+            fclose($userInput); 
         }
-        fwrite($userInput, $fname);
-        fwrite($userInput, $lname);
-        fwrite($userInput, $email);
-        fwrite($userInput, $hash); 
-        fclose($userInput); 
     ?>
 
 </body>
