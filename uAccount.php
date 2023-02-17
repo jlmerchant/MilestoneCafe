@@ -40,13 +40,8 @@
             } else {
                 $hash = password_hash($pword, PASSWORD_DEFAULT);
                 echo "Password is a secret <br />"; 
-
             }
         }
-        
-       
-        //$email;
-        //pword; 
     ?>
 </body>
 </html>
