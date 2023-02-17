@@ -16,13 +16,13 @@ h3 {
 }
 header {
     text-align: center;
-    font-size: 30pt;
+    font-size: 32pt;
     font-family: 'Courier New', Courier, monospace;
     background-color: bisque;
 }
 nav {
     text-align: center;
-    font-size: 28pt;
+    font-size: 26pt;
     font-family: 'Courier New', Courier, monospace;
     background-color: darkcyan;
     color: black;
