@@ -8,14 +8,14 @@
     <title>Account</title>
 </head>
 <body>
-<h3>User Account</h3>
+<h3>Milestone Cafe</h3>
     <header>User Information</header>
         <nav>
             <a href='index.php'>Home</a> |
             <a href="breakfast.php">Breakfast</a> |
             <a href="lunch.php">Lunch</a> |
             <a href="dinner.php">Dinner</a> |
-            <a href="OurHistory.php">Our History</a>
+            <a href="OurHistory.php">Our History</a> |
             <a href="uAccount.php">User Account</a>
         </nav>
     <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">

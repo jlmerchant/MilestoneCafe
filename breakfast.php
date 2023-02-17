@@ -15,7 +15,8 @@
             <a href="breakfast.php">Breakfast</a> |
             <a href="lunch.php">Lunch</a> |
             <a href="dinner.php">Dinner</a> |
-            <a href="OurHistory.php">Our History</a>
+            <a href="OurHistory.php">Our History</a> |
+            <a href="uAccount.php">User Account</a>
         </nav>
         <aside class = "Lighter">
         <img src="muffin.jpeg" alt="muffin" width="300" height="310" class="w3-round">
