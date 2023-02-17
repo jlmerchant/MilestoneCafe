@@ -22,7 +22,10 @@
     First Name:<input type="text" name="fname" >
     Last Name:<input type="text" name="lname">
     Email:<input type="text" name="email">
-    Password:<input type="text" name="pword">
+    Password:<input type="password" name="pword" 
+    pattern = "(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
+    title="Must contain at least one number and one uppercase and 
+    lowercase letter, and at least 8 or more characters" required>
     <input type="submit">
     </form> 
     <?php
