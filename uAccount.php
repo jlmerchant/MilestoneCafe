@@ -29,7 +29,6 @@
     <input type="submit">
     </form> 
     <?php
-        $userInput = fopen("users.txt", "w");
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             //collect value of input field 
             $fname = $_POST['fname'];
@@ -57,6 +56,7 @@
                 echo "Password is a secret <br />"; 
             }
         }
+        $userInput = fopen("users.txt", "a");
         fwrite($userInput, $fname);
         fwrite($userInput, $lname);
         fwrite($userInput, $email);
