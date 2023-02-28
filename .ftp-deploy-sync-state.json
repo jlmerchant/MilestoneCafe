@@ -1,0 +1,71 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1676749016431,
+    "data": [
+        {
+            "type": "file",
+            "name": "JordynSQL.session.sql",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 8,
+            "hash": "8fb1f8bd3396f043650438fc9f6b1651ebd5051ac470fa32c951bc0676bef288"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 830,
+            "hash": "e6156b691e6236490f385c9f7aa3d1fc398db0488cf06cdc05091ef2c1aca63b"
+        },
+        {
+            "type": "folder",
+            "name": "sql"
+        },
+        {
+            "type": "file",
+            "name": "uAccount.php",
+            "size": 1552,
+            "hash": "3640ccb96b5c3167f5456d1c2629c9f6aab231b634144e8a19a28fd3786e95a6"
+        },
+        {
+            "type": "file",
+            "name": "sql/SteveConn.session.sql",
+            "size": 200,
+            "hash": "bbc55ffc0b2d5e96068bbb0b0e4810c1fa14c904a952ff79c85de3be7aeb104f"
+        },
+        {
+            "type": "file",
+            "name": "sql/createCustomer.sql",
+            "size": 285,
+            "hash": "350147b0aa3d3b77828eb5a356d0aad58e6278d9a8b12e91c38fc6def8947bbc"
+        },
+        {
+            "type": "file",
+            "name": "sql/drop table customer;.sql",
+            "size": 20,
+            "hash": "d6bfe1b3674e371a9cbf2991ab70dd9a214bd797de782c41c5f140e179ff076f"
+        },
+        {
+            "type": "file",
+            "name": "sql/dropCustomer.sql",
+            "size": 94,
+            "hash": "b9c7702d3cae1848fd7ce21086491c75114a8ee749d366ef2ec148a70c5fc756"
+        },
+        {
+            "type": "file",
+            "name": "sql/insertCustomer.sql",
+            "size": 357,
+            "hash": "b927828184a411f8e92d3c55725ce6408c9f973f8e3f57fe8f2339273e48f796"
+        },
+        {
+            "type": "file",
+            "name": "sql/selectCust.sql",
+            "size": 23,
+            "hash": "0cda220a073a0a4b2df2f79a3c8a794ed5d890755e42b19540601077eb467d24"
+        }
+    ]
+}
