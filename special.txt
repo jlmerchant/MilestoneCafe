@@ -1,17 +1,17 @@
-<b>Breakfast Special $10</b>
-Monday -- $7.75 Chicken fried steak and gravy with hashbrowns and 2 eggs
-Tuesday -- $8.60 choice of meat with toast covered in potato, eggs, gravy, and cheese sauce 
-Wednesday,Thursday -- $7 Italian sausage, 2 eggs, hashbrowns, toast
-Friday, Weekends -- $8 Pancakes, eggs, hashbrown, toast  
+<b>Breakfast Special $8</b>
+Monday -- Chicken fried steak and gravy with hashbrowns and 2 eggs
+Tuesday -- choice of meat with toast covered in potato, eggs, gravy, and cheese sauce 
+Wednesday,Thursday -- Italian sausage, 2 eggs, hashbrowns, toast
+Friday, Weekends -- Pancakes, eggs, hashbrown, toast  
 
-<b>Lunch Special</b>
-Monday -- $10 3 street tacos with chips and salsa 
-Tuesday -- $8 Patriot burger with chips or fries 
-Wednesday,Thursday -- $9 grilled/fried chicken wrap with fries or chips 
-Friday, Weekends -- $10 Ribs with fries and a side of BBQ sauce 
+<b>Lunch Special $10</b>
+Monday -- 3 street tacos with chips and salsa 
+Tuesday -- Patriot burger with chips or fries 
+Wednesday,Thursday -- grilled/fried chicken wrap with fries or chips 
+Friday, Weekends -- Ribs with fries and a side of BBQ sauce 
 
-<b>Dinner Special</b>
-Monday -- $10 Tenderloin with fries and choice of wine 
-Tuesday -- $8 Meatloaf, mash potatoes, coleslaw
-Wednesday,Thursday -- $9 popcorn shrimp, fries, mac and cheese 
-Friday, Weekends -- $12 6oz filet mignon, glazed butter, brussel sprouts 
+<b>Dinner Special $12</b>
+Monday -- Tenderloin with fries and choice of wine 
+Tuesday -- Meatloaf, mash potatoes, coleslaw
+Wednesday,Thursday -- popcorn shrimp, fries, mac and cheese 
+Friday, Weekends -- 6oz filet mignon, glazed butter, brussel sprouts 
