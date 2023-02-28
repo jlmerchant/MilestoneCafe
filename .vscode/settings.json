@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "162.241.226.112",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "JordynCafe",
+            "database": "steverq1_jordyn",
+            "username": "steverq1_jordyn",
+            "password": "Csci213+#005"
+        }
+    ]
+}
