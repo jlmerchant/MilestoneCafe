@@ -27,6 +27,15 @@
                     echo fgets($lightFile) . "<br>";
                 }
                 fclose($lightFile); 
+
+
+
+                #$db = new PDO('/Users/jordynmerchant/Desktop/Locker/School/2022-2023/Spring 2023/Web Programming Techniques/MilestoneCafe/JordynCafe.session.sql', 'steverq1_jordyn', 'steverq1_jordyn');
+                #$db->query("SELECT men_food,price FROM CafeMenu
+                #UNION
+                #SELECT mealDesc FROM CafeItems WHERE mealTime='Breakfast'
+                #UNION
+                #SELECT classType FROM Classify WHERE classType='lite fare'");
             ?>
         </aside>
         <aside class = "BigBKF">
@@ -37,6 +46,14 @@
                     echo fgets($bigFile) . "<br>";
                 }
                 fclose($bigFile); 
+
+
+                  #$db = new PDO('/Users/jordynmerchant/Desktop/Locker/School/2022-2023/Spring 2023/Web Programming Techniques/MilestoneCafe/JordynCafe.session.sql', 'steverq1_jordyn', 'steverq1_jordyn');
+                #$db->query("SELECT men_food,price FROM CafeMenu
+                #UNION
+                #SELECT mealDesc FROM CafeItems WHERE mealTime='Breakfast'
+                #UNION
+                #SELECT classType FROM Classify WHERE classType='classic'");
             ?>
             <img src="Waffle.jpeg" alt="waffles" width="300" height="310" class="w3-round">
         </aside>
@@ -48,6 +65,18 @@
                     echo fgets($drinksFile) . "<br>";
                 }
                 fclose($drinksFile); 
+
+                  #$db = new PDO('/Users/jordynmerchant/Desktop/Locker/School/2022-2023/Spring 2023/Web Programming Techniques/MilestoneCafe/JordynCafe.session.sql', 'steverq1_jordyn', 'steverq1_jordyn');
+                #$db->query("SELECT men_food,price FROM CafeMenu WHERE men_food='Apple Juice'
+                #SELECT men_food,price FROM CafeMenu WHERE men_food='Orange Juice'
+                #SELECT men_food,price FROM CafeMenu WHERE men_food='Coffee'
+                #SELECT men_food,price FROM CafeMenu WHERE men_food='Sprite'
+                #SELECT men_food,price FROM CafeMenu WHERE men_food='Diet Pepsi'
+                #SELECT men_food,price FROM CafeMenu WHERE men_food='Coke'
+                #UNION
+                #SELECT mealDesc FROM CafeItems WHERE mealTime='Breakfast'
+                #UNION
+                #SELECT classType FROM Classify WHERE classType='lite fare'");
             ?>
             <img src="coffee.jpeg" alt="coffee" width="300" height="310" class="w3-round">
         </aside>

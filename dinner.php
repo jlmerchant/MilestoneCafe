@@ -28,6 +28,13 @@
                 fclose($lDinnerFile); 
 
 
+
+                #$db = new PDO('/Users/jordynmerchant/Desktop/Locker/School/2022-2023/Spring 2023/Web Programming Techniques/MilestoneCafe/JordynCafe.session.sql', 'steverq1_jordyn', 'steverq1_jordyn');
+                #$db->query("SELECT men_food,price FROM CafeMenu
+                #UNION
+                #SELECT mealDesc FROM CafeItems WHERE mealTime='Dinner'
+                #UNION
+                #SELECT classType FROM Classify WHERE classType='lite fare'");
               
             ?>
             <img src="soup.jpeg" alt="soup" width="350" height="300" class="w3-round">
@@ -40,6 +47,14 @@
                     echo fgets($bDinnerFile) . "<br>";
                 }
                 fclose($bDinnerFile); 
+
+
+                #$db = new PDO('/Users/jordynmerchant/Desktop/Locker/School/2022-2023/Spring 2023/Web Programming Techniques/MilestoneCafe/JordynCafe.session.sql', 'steverq1_jordyn', 'steverq1_jordyn');
+                #$db->query("SELECT men_food,price FROM CafeMenu
+                #UNION
+                #SELECT mealDesc FROM CafeItems WHERE mealTime='Dinner'
+                #UNION
+                #SELECT classType FROM Classify WHERE classType='classic'");
             ?>
             <img src="chicken.jpeg" alt="chicken" width="350" height="300" class="w3-round">
         </aside>
