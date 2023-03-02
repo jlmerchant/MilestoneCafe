@@ -21,11 +21,14 @@
         <aside class = "Lighter">
             <h4>Lighter Dinner</h4>
             <?php 
-                $lDinnerFile = fopen("lDinner.txt","r");
+                $lDinnerFile = fopen("ldinner.txt","r");
                 while(!feof($lDinnerFile)) {
                     echo fgets($lDinnerFile) . "<br>";
                 }
                 fclose($lDinnerFile); 
+
+
+              
             ?>
             <img src="soup.jpeg" alt="soup" width="350" height="300" class="w3-round">
         </aside>
