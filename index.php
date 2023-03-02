@@ -21,11 +21,17 @@
         <aside class = "specials">
             <h4>Special of the Day</h4>
             <?php
-                $specialFile = fopen("special.txt","r");
-                while(!feof($specialFile)) {
-                    echo fgets($specialFile) . "<br>";
-                }
-                fclose($specialFile); 
+                $db = new PDO(steverq1_jordyn,steverq1_jordyn,steverq1_jordyn);
+                $db->query("SELECT men_food,price FROM CafeMenu WHERE men_food='Breakfast Special'
+                SELECT men_food,price FROM CafeMenu WHERE men_food='Lunch Special'
+                SELECT men_food,price FROM CafeMenu WHERE men_food='Dinner Special'
+                UNION
+                SELECT mealDesc FROM CafeItems
+                UNION
+                SELECT classType FROM Classify'");
+
+
+               
             ?>
             </p>
         </aside>
