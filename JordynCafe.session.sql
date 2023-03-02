@@ -1,1 +1,0 @@
-INSERT INTO Classify VALUES(89,'classic','372','Shrimp and Veggie Packets');
